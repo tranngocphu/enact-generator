@@ -1,0 +1,9 @@
+PI = 3.14159265359
+R = 6371e3
+knot2ms = 0.514444
+ftmin2ms = 0.00508
+nm2m = 1852.
+ft2m = 0.3048
+m2ft = 3.2808
+rad2deg = 180 / PI
+deg2rad = PI / 180
