@@ -17,7 +17,7 @@ look_ahead = 5  # minutes
 duration_after = 10 # miutes after the conflict
 ownship_cs  = "AUT001"
 intruder_cs = "AUT002"
-bada_data_path = '/home/phu/projects/enact-generator/bada36_PTF.csv'
+bada_data_path = './bada36_PTF.csv'
 
 conflict_params = ConflictInput(
     lat0, lon0, hdg0, \
